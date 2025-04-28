@@ -1,0 +1,1 @@
+This repository contains the code to fit a regression model using the Hierarchical Grouped Horseshoe Prior (HGHP). 
